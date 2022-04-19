@@ -4,7 +4,7 @@
 
 ![](./Document/手环实物.jpg)
 
-![](./Document/PCB实物.jpg)
+![](./Document/PCB_实物.jpg)
 
 ![](./Document/PCB_顶层.png)
 
